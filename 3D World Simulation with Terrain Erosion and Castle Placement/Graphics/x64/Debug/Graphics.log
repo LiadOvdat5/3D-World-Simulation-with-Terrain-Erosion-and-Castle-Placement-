@@ -1,0 +1,80 @@
+﻿  main.cpp
+D:\OpenGL\Final Project\Graphics\main.cpp(49,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(49,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(49,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(50,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(50,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(50,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(51,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(51,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(51,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(54,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(54,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(54,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(55,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(55,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(56,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(56,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(56,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(59,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(59,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(59,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(60,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(60,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(60,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(61,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(61,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(61,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(68,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(68,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(69,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(69,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(70,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(70,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(70,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(73,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(73,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(73,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(74,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(74,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(74,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(75,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(75,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(75,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(78,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(78,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(78,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(79,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(80,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(80,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(80,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(83,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(83,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(83,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(84,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(84,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(85,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(85,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\OpenGL\Final Project\Graphics\main.cpp(353,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OpenGL\Final Project\Graphics\main.cpp(354,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OpenGL\Final Project\Graphics\main.cpp(354,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OpenGL\Final Project\Graphics\main.cpp(1340,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OpenGL\Final Project\Graphics\main.cpp(1384,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\OpenGL\Final Project\x64\Debug\Graphics.exe : fatal error LNK1120: 14 unresolved externals

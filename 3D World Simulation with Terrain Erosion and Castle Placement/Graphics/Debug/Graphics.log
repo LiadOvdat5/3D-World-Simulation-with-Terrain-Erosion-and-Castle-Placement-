@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1002,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1003,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1437,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1439,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1439,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1444,9): warning C4101: 'j': unreferenced local variable
+D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Graphics\main.cpp(1520,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> D:\OpenGL\3D World Simulation with Terrain Erosion and Castle Placement\Debug\Graphics.exe
